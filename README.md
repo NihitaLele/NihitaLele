@@ -58,10 +58,15 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 
 ---
 
-### 📈 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihitalele&show_icons=true&theme=radical)](https://github.com/nihitalele/github-readme-stats)
+### 📈 GitHub Stats & Activity:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nihitalele&layout=compact&theme=radical)
+[![Nihita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihitalele&theme=tokyo-night)](https://github.com/nihitalele/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nihitalele&show_icons=true&theme=radical" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitalele&layout=compact&theme=radical" width="48%" height="200px"/>
+</div>
+
 ---
 
 ### 📫 Connect with Me:
