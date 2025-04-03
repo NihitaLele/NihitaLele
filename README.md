@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJlbWV3NHEybXFhY3U4YzU4MWVqdGY1YTB3eGcwdzQ2a2hmemtiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hi2BWtqasFXuXRYOUR/giphy.gif" width="200" height="200"/>
 </p>
 
-🚀 Frontend Developer | JavaScript | React | Node.js | Express.js | MongoDB
+🚀 Frontend Developer | JavaScript | React | Node.js | Express.js | MongoDB | SQL
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/NihitaLele)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nihita-lele-b1534125a/)
