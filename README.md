@@ -16,7 +16,7 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies & Tools
 
 ### 🚀 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
