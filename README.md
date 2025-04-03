@@ -64,7 +64,7 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihitalele&show_icons=true&theme=radical" width="48%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitalele&layout=compact&theme=radical" width="48%" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitalele&layout=compact&theme=radical" width="48%" height="200px"/>
 </div>
 
 ---
