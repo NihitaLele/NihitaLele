@@ -63,8 +63,8 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 [![Nihita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihitalele&theme=tokyo-night)](https://github.com/nihitalele/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihitalele&show_icons=true&theme=radical" width="48%" height="250px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitalele&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nihitalele&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihitalele&layout=compact&theme=radical" width="40%"/>
 </div>
 
 ---
