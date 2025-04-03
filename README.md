@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me:
 Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. Experienced in building user-friendly websites and applications. Logical and results-driven, with a strong technical background and a problem-solving mindset focused on optimizing performance and user experience.
 
-💡 Always learning and improving my skills. 
+💡Always learning and improving my skills. 
 
 📍MCA from **LPU University** (2025)
 
