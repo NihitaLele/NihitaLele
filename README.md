@@ -1,4 +1,4 @@
-# Hi there, I'm Nihita Lelel! 👋
+# Hi there, I'm Nihita Lele! 👋
 
 🚀 Frontend Developer | JavaScript | React | Node.js | Express.js | MongoDB
 
