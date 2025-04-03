@@ -1,5 +1,9 @@
 # Hi there, I'm Nihita Lele! 👋
 
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJlbWV3NHEybXFhY3U4YzU4MWVqdGY1YTB3eGcwdzQ2a2hmemtiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Hi2BWtqasFXuXRYOUR/giphy.gif" width="200" height="200"/>
+</p>
+
 🚀 Frontend Developer | JavaScript | React | Node.js | Express.js | MongoDB
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/NihitaLele)
@@ -17,6 +21,11 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 ---
 
 ## 🛠 Technologies & Tools
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GYtblmdLnemlO/giphy.gif?cid=790b7611colpwwuc47gzfhwsn5a85f5kudhwhm141fb3qkc7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="250"/>
+</p>
+
 
 ### 🚀 Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -46,7 +55,6 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)  
-
 
 ---
 
