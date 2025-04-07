@@ -12,7 +12,8 @@
 ---
 
 ### 👨‍💻 About Me:
-Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. Experienced in building user-friendly websites and applications. Logical and results-driven, with a strong technical background and a problem-solving mindset focused on optimizing performance and user experience.
+Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. Experienced in building user-friendly websites and applications. Logical and results-driven, with a strong technical background and a problem-solving mindset focused on optimizing performance and user experience. <br>
+When I’m not coding, you’ll often find me sketching portraits or diving into new creative and technical skills—I love learning and constantly pushing my boundaries, both personally and professionally.
 
 💡Always learning and improving my skills. 
 
