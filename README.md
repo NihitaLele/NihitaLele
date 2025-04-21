@@ -19,7 +19,7 @@ Skilled Frontend Developer with expertise in HTML, CSS, JavaScript, and React. E
 
 📍MCA from **LPU University** (2025)
 
----
+----
 
 ## 🛠 Technologies & Tools
 
